@@ -15,5 +15,4 @@ Just a Developer :D <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=amirmohammadgholampour&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![LinkedIn](https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico)](https://www.linkedin.com/in/amirmohammad-gholampour/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
