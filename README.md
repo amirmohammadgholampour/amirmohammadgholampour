@@ -1,5 +1,10 @@
 # 💫 About Me:
-Just a developer 🌟
+Hi, my name is AmirMohammad. 
+I'm a junior Python developer. 
+I am working with python in the different fields. 
+My main stack in programming is Computer vision and Back-end development, but I have basic experinces in other fields like NLP and Front-end development.
+I am working with Pytorch for building vision models. well, I have basic knowledge about the Tensorflow framework.  
+Also, I have some experiences in designing APIs and creating software with Django and DRF (Django RestFramework).
 
 
 ## 🌐 Socials:
