@@ -23,6 +23,6 @@ Also, I have some experiences in designing APIs and creating software with Djang
 
 
 # 📚 My Projects:
-- <a href="https://github.com/amirmohammadgholampour/Smart-Attendance-System"> Smart-Attendace System </a> 
-- <a href="https://github.com/amirmohammadgholampour/Image_processing_projects"> Image processing topic </a> 
-- <a href="https://github.com/amirmohammadgholampour/Human-Skin-Segmentation"> Human Skin Segmentation with classical image processing algorithms </a> 
+- <h3> <b> <a href="https://github.com/amirmohammadgholampour/Smart-Attendance-System"> Smart-Attendace System </a> </b> </h3>
+- <h3> <b> <a href="https://github.com/amirmohammadgholampour/Image_processing_projects"> Image processing topic </a> </b> </h3>
+- <h3> <b> <a href="https://github.com/amirmohammadgholampour/Human-Skin-Segmentation"> Human Skin Segmentation with classical image processing algorithms </a> </b> </h3>
