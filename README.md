@@ -13,4 +13,10 @@ Also, I have some experiences in designing APIs and creating software with Djang
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirmohammad_gholampour.2008) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirmohammad-gholampour) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amirmohammadghlmpr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26785927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirmohammadghlmpr@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+- <b>Programming language</b>: Python, Javascript
+- <b>Image processing</b>: OpenCV
+- <b>Data Analysis</b>: Numpy, Pandas, Matplotlib
+- <b>Machine Learning</b>: Regression, Classification, Scikit-learn
+- <b>Deep Learning</b>: CNN(Convolutional Neural Network), Pytorch
+- <b>Software Development</b>: Django, DRF(Django Rest Framework)
+- <b>Tools</b>: Docker, Git, Github
